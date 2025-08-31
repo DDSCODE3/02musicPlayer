@@ -1125,9 +1125,7 @@ footer .music-player {
 
 /* موبایل خیلی کوچک */
 @media (max-width: 480px) {
-  .music-details {
-    display: none;
-  }
+
 
   .player-content {
     margin-top: 10px;
